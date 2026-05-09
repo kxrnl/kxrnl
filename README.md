@@ -19,5 +19,5 @@
 | About Me | I do stuff for fun |
 |----------|--------------------|
 | CodeWars | [![Codewars Badge](https://www.codewars.com/users/Grizzey/badges/large)](https://www.codewars.com/users/Grizzey) |
-| GitHub Stats | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Grizzey&theme=dark&hide_border=false) |
+| GitHub Stats | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kxrnl&theme=dark&hide_border=false) |
 | Languages & Tools | <img src="https://skillicons.dev/icons?i=js,html,css,lua,java,cs,godot&theme=dark" /> |

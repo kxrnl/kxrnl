@@ -21,4 +21,4 @@
 | CodeWars | [![Codewars Badge](https://www.codewars.com/users/Grizzey/badges/large)](https://www.codewars.com/users/Grizzey) |
 | GitHub Stats | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kxrnl&theme=dark&hide_border=false) |
 | Languages & Tools | <img src="https://skillicons.dev/icons?i=js,html,css,lua,java,cs&theme=dark" /> |
-| Tools | <img src="https://skillicons.dev/icons?i=godot,blender,vsc,spotify&theme=dark" /> |
+| Tools | <img src="https://skillicons.dev/icons?i=godot,blender,vscode,spotify&theme=dark" /> |

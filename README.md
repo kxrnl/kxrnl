@@ -2,7 +2,7 @@
 
 | My Profile | Stats |
 |------------|-------|
-| [![Check Profile](https://img.shields.io/badge/Check_My_Profile-Color)](https://grizzey.github.io) | ![](https://komarev.com/ghpvc/?username=grizzey&abbreviated=true&color=lightgrey) ![](https://img.shields.io/badge/Semi%20Active-green)|
+| [![Check Profile](https://img.shields.io/badge/Check_My_Profile-Color)](https://kxrnl.github.io) | ![](https://komarev.com/ghpvc/?username=grizzey&abbreviated=true&color=lightgrey) ![](https://img.shields.io/badge/Semi%20Active-green)|
 
 ---
 

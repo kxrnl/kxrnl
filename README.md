@@ -51,4 +51,4 @@ _More projects to come..._
 ---
 
 ### Links
-[Portfolio](https://kxrnl.github.io) · [Instagram](https://www.instagram.com/kxrnl.main/) · [Discord](https://www.discord.com/users/489963091019169802)
+[Portfolio](https://kxrnl.github.io) · [Instagram](https://www.instagram.com/kxrnl.main/) · [Discord](https://www.discord.com/users/489963091019169802) · [Email](mailto:montecilloterence4@gmail.com)

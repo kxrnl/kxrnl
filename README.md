@@ -55,6 +55,10 @@ Spend most of my time between game dev experiments, web projects, and discoverin
 _More projects to come..._
 
 ---
+### Stats
 
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=6480&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
+---
 ### Links
 [Portfolio](https://kxrnl.github.io) · [Instagram](https://www.instagram.com/kxrnl.main/) · [Discord](https://www.discord.com/users/489963091019169802) · [Email](mailto:montecilloterence4@gmail.com)

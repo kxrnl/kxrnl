@@ -46,6 +46,12 @@ Spend most of my time between game dev experiments, web projects, and discoverin
 
 <br/>
 
+**[GoTypist](https://github.com/kxrnl/GoTypist)** ▪ Mini Project / Experiment ▪ <img height="18" src="https://skillicons.dev/icons?i=golang&theme=dark" />
+
+- Insipired from [MonkeyType's](https://monkeytype.com) simple UI and the core mechanics of testing your ability to type quick and efficiently.
+
+<br/>
+
 _More projects to come..._
 
 ---
